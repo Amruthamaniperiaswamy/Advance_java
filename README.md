@@ -62,6 +62,52 @@ This program includes examples of advanced Swing UI features such as tabbed pane
 
 ---
 
+---
+
+## 🌐 Program 6: Servlet – Cookies, Factorial, Prime Number
+
+This program demonstrates the use of Java Servlets for performing basic arithmetic and cookie management.
+
+- [Cookie Example – Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/6a.png)
+- [Cookie Example – Output](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/6a1.png)
+- [Factorial Example – Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/6bd.png)
+- [Factorial Example – Output](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/6bd1.png)
+- [Prime Number Check – Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/prime1.png)
+- [Prime Number Check – Output](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-6-Servelet/prime2.png)
+
+---
+
+## 🍪 Program 7: Servlet – Welcome Page and Cookie Management
+
+This program showcases advanced servlet usage involving multiple pages and cookie data handling.
+
+- [Welcome Page Input 2](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-7-Servelet/7a.png)
+- [Cookie Data Retrieval](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-7-Servelet/7a2.png)
+- [Final Output with Cookie](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-7-Servelet/7a3.png)
+---
+
+## 🛢️ Program 8: JDBC – Insert and Update Operations
+
+This program demonstrates database connectivity using JDBC to perform insert and update operations.
+
+- [Update Form Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-8_JDBCEx/8ac.png)
+- [Update Confirmation](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-8_JDBCEx/8ad.png)
+
+---
+
+## 🗂️ Program 9: JDBC – Add, Delete, and Search Operations
+
+This program includes functionality to add, delete, and search records using Java JDBC.
+
+- [Search Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9ca.png)
+- [Search Result](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9Da.png)
+- [Display Operation](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9da1.png)
+
+---
+
+📎 This concludes the output documentation for Advanced Java experiments.
+
+
 📁 Each output screenshot visually represents the execution result of its corresponding Java code and helps validate program functionality.
 
 Feel free to explore the repo for source code and detailed implementation.
