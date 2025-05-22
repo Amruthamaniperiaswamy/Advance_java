@@ -100,7 +100,7 @@ This program demonstrates database connectivity using JDBC to perform insert and
 This program includes functionality to add, delete, and search records using Java JDBC.
 
 - [Search Input](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9ca.png)
-- [Search Result](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9Da.png)
+- [Search Result](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9da.png)
 - [Display Operation](https://github.com/Amruthamaniperiaswamy/Advance_java/blob/main/Exp-9-JDBCex/9da1.png)
 
 ---
